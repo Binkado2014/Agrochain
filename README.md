@@ -71,4 +71,38 @@ To build a decentralized ecosystem where African farmers can access:
 
 - 🧵 Twitter: [@Amg_k3Hub](https://x.com/Amg_k3)
 - 🧑‍🌾 Dorahacks: [Amg_K3Hub](https://dorahacks.io/hacker/Amg_K3Hub)
--
+-🎥 YouTube: [@amg_k3hub](https://youtube.com/@amg_k3hub)
+- 🧑‍💻 GitHub: [Binkado2014](https://github.com/Binkado2014)
+
+---
+
+## 🔮 What We're Looking For
+
+- 🌟 Developers who believe in real-world impact through Web3
+- 🤝 Collaborators in community building, design, and education
+- 💸 Support for hosting, prototype building, and testnet deployment
+
+---
+
+## 🧠 Built With
+
+- Hedera Hashgraph (coming integration)
+- GitHub Pages
+- Figma (UI/UX mockup)
+- Community & Passion ❤️
+
+---
+
+## 🔗 Contributing
+
+We welcome collaborators, contributors, and testers!  
+Open a PR or send us a DM on Twitter or Discord.
+
+---
+
+## 📢 Acknowledgements
+
+Thanks to:
+- **DoraHacks** – for connecting global builders  
+- **Hedera** – for empowering open innovation  
+- **Our future community** – for believing in decentralized agriculture
