@@ -1,65 +1,74 @@
-# 🌿 Agrochain by Bin Kado Agro Pro Enterprises
+# 🌱 Agrochain – Empowering African Farmers through Web3
 
-**Agrochain** is a decentralized agricultural platform powered by blockchain technology, initiated by **Bin Kado Agro Pro Enterprises**, a verified farming and livestock development company based in Katsina, Nigeria.
+Agrochain is a Web3-powered initiative under Bin Kado Agro Pro Enterprises. We aim to revolutionize African agriculture by connecting farmers, veterinary experts, and agro-professionals through blockchain-powered tools, education, and incentives.
 
-Our mission is to **empower African farmers and animal health stakeholders** by combining real-life agricultural practices with Web3 innovation — enabling transparency, reward systems, and educational tools for rural and urban communities.
-
----
-
-## 🌍 Vision
-
-To bridge the gap between traditional farming and decentralized digital tools by:
-- Digitizing farmer identity and proof-of-work
-- Educating communities about crypto, DeFi, and NFTs
-- Rewarding participation and agricultural excellence with Web3 tokens
+![Banner](https://raw.githubusercontent.com/Binkado2014/Binkado2014/main/assets/agrochain-banner.png)
 
 ---
 
-## 🧩 Key Features
+## 💡 Mission
 
-- ✅ **Farmer NFT Certification System**
-- 📲 **Educational Web3 Programs in Local Languages**
-- 🌾 **Tokenized Agro Marketplace (Coming Soon)**
-- 📸 **Proof-of-Farming using geolocation and photo-verification**
-- 🐄 **Livestock Health Tracking + Data Logging**
-- 🌐 **Integration with Pi Network and other grassroots crypto platforms**
-
----
-
-## 🔧 Project Status
-
-This project is currently in **early development**, with a focus on:
-- Structuring the GitHub repository
-- Building UI mockups and smart contracts
-- Preparing demo materials for hackathons
+To build a decentralized ecosystem where African farmers can access:
+- Verified agro knowledge,
+- Transparent supply chain data,
+- Veterinary services,
+- Community-driven support,
+- And crypto-based incentives.
 
 ---
 
-## 📎 Team
+## 🚜 Why Agrochain?
 
-- **Founder:** Abdulkadir Muhammed Gidado `(@Amg_k3Hub)`
-- **Support Team:** Mlm Nura Hassana, Muhammad Ado Duwan, Hajiya Halima Abubakar
-- **Community:** 3,000+ Pi Network registrations from Northern Nigeria
+> 🌍 Millions of smallholder farmers in Africa lack access to reliable tools, information, and market access. Agrochain bridges this gap using Web3.
 
----
+### ❌ Problems We Solve:
+- Lack of access to trusted veterinary advice
+- No record-keeping of livestock or crops
+- Limited awareness of crypto/web3 benefits
+- Fragmented agro-communities
 
-## 🔗 Links
-
-- 🌐 [Twitter / X](https://x.com/amg_k3?t=yZKuSFWu3CtQZplnHkCxKQ&s=09)
-- 📺 [YouTube Channel](https://youtube.com/@amg_k3hub?si=oUW2qlYwdm1vFqiC)
-- 🌱 [Dorahacks Profile](https://dorahacks.io/hacker/Amg_K3Hub)
-- 🧪 [GitHub Profile](https://github.com/Binkado2014)
-
----
-
-## 🤝 Join Us
-
-We're open to **blockchain developers, frontend designers, community builders**, and those passionate about agriculture, sustainability, and crypto.
-
-> Send us a message on **Dorahacks** or via GitHub issues to collaborate.
+### ✅ Our Solution:
+- Decentralized Agro-vet Hub (coming soon)
+- Community education programs on Web3
+- Agro Profiles for every farmer
+- Reward system using $AGC token (to be launched)
+- Integration with Hedera DLT for fast and low-cost operations
 
 ---
 
-## 📜 License
+## 🔩 Core Features (MVP)
 
-This project is licensed under the MIT License.
+- 📘 **AgroProfile**: Every farmer gets a digital ID
+- 🐄 **VetConnect**: Ask vets via platform and get trusted guidance
+- 🎓 **AgroClassroom**: Free videos and guides on Web3 & Farming
+- 💬 **AgroCommunity**: Connect with others and earn tokens
+- 💰 **Rewards Engine**: Earn by learning, sharing, and growing
+
+---
+
+## 📍 Roadmap
+
+| Phase | Timeline | Key Deliverables |
+|-------|----------|------------------|
+| Phase 1 | ✅ July 2025 | GitHub Repo + Community Setup |
+| Phase 2 | 🔄 Aug 2025 | MVP UI/UX + Smart Contract Planning |
+| Phase 3 | 🛠️ Sept 2025 | Testnet Launch on Hedera |
+| Phase 4 | 🌐 Oct 2025 | Public Demo + $AGC Token Pilot |
+| Phase 5 | 🧩 Nov 2025 | Farmer Profiles On-chain + DAO Setup |
+
+---
+
+## 👥 Team
+
+**Founder:** Abdulkadir Muhammed Gidado  
+🔗 [@Amg_k3Hub on Twitter](https://x.com/Amg_k3)  
+🌱 Founder @ Bin Kado Agro Pro Enterprises  
+🧠 Web3 Advocate | Hackathon Builder | Crypto Educator
+
+---
+
+## 🌐 Social Links
+
+- 🧵 Twitter: [@Amg_k3Hub](https://x.com/Amg_k3)
+- 🧑‍🌾 Dorahacks: [Amg_K3Hub](https://dorahacks.io/hacker/Amg_K3Hub)
+-
