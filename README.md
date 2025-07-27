@@ -1,112 +1,54 @@
-# 🌾 Agrochain – Empowering African Farmers with Web3 (Built on Aptos)
+# 🌾 Agrochain
 
-**Agrochain** is a decentralized platform that empowers smallholder farmers across Africa using simple Web3 tools, voice-powered learning, and livestock health monitoring. We aim to make farming fun, traceable, and globally rewarding.
+Agrochain is a decentralized solution designed to empower African farmers by using blockchain technology to bring transparency, trust, and tokenized access to farming inputs, produce, and community-based finance.
 
----
+## 🚀 Overview
 
-## 🧠 Ideathon Submission Info
+Agrochain focuses on building tools for:
+- Tokenization of crops and farmer contributions
+- Transparent supply chain records using smart contracts
+- Decentralized farmer identity system
+- A lightweight MVP dApp for onboarding smallholder farmers
 
-- 🏁 Event: GUI INU Ideathon  
-- ⛓️ Chain: Aptos  
-- 💡 Track: Consumer AI Apps  
-- 🗓️ Deadline: August 1, 2025  
-- 👥 Team Lead: Abdulkadir Muhammed Gidado  
-- 🔗 Twitter: [@Amg_k3Hub](https://x.com/Amg_k3Hub)  
-- 🔗 DoraHacks Profile: [Amg_K3Hub](https://dorahacks.io/hacker/Amg_K3Hub)
+We aim to bridge the gap between Web3 innovation and real-world agriculture challenges.
 
----
+## ⚙️ Tech Stack
 
-## 🎯 Problem
+- **Smart Contracts:** Solidity (Ethereum-compatible chains), exploring ICP and Hedera support
+- **Frontend:** ReactJS / Svelte (planned)
+- **Storage & Identity:** IPFS, possible integration with Polygon ID or Ceramic
+- **Tooling:** Hardhat, DFX (Internet Computer), Hedera SDK
 
-Most smallholder farmers in Africa:
+## 📈 Status
 
-- Lack livestock health records  
-- Miss access to expert tips in native languages  
-- Don’t benefit from digital or token-based economies  
+Currently in the concept/prototype stage.  
+Key progress:
+- GitHub initialized
+- Project roadmap drafted
+- Team formation ongoing
+- DoraHacks Ideathon submission complete ✅
 
----
+## 👥 Team
 
-## ✅ Solution
+- **Abdulkadir Muhammed Gidado** – Founder / Project Lead  
+  Twitter: [@Amg_k3Hub](https://twitter.com/Amg_k3Hub)  
+- **Nura Muhammad Hassan** – Community Outreach Lead  
+- **Muhammadu Ado Duwan** – Farmer Relations Coordinator  
 
-Agrochain provides:
+> Note: The team is expanding. More technical contributors and advisors will be added as development progresses.
 
-- ✅ Farmer Web3 Profiles + XP leveling  
-- ✅ Health Tracker for Animals  
-- ✅ Hausa-powered Learning Hub (AI voice)  
-- ✅ NFT + Token Rewards for Tasks  
-- ✅ Community Challenges with Funding Claim
+## 🤝 Contribution
 
----
+We're open to collaboration! If you’re a smart contract developer, frontend builder, or researcher passionate about regenerative agriculture and decentralized systems, feel free to join us.
 
-## 🔧 Tech Stack
-
-| Layer       | Tool              |
-|-------------|-------------------|
-| Blockchain  | Aptos             |
-| Frontend    | React / Flutter   |
-| Storage     | IPFS / Arweave    |
-| AI/Voice    | Prompt AI + Hausa |
-| Backend     | Node.js (Planned) |
-
----
-
-## 🧩 UI/Mockup Preview (3 Key Sections)
-
-### 1. 🌍 Landing Page UI – “Greener Future with Web3 Farmers”
-
-- **Slogan Banner:** _"Farming meets Web3 — Join the Agrochain movement!"_
-- Quick buttons: `📱 Join` `📘 Learn` `💰 Earn`
-- Display: farmer avatars, farming stats, NFTs
-- Meme-style CTA: _“From Hoe to Hashrate 💚”_
-
-### 2. 👤 User Dashboard UI – Agrochain Farmer Profile
-
-- XP Level + Green Certificate  
-- Daily Tasks List  
-- NFT Rewards History  
-- Referral Challenge Tracker  
-- Claim Community Fund Button  
-
-### 3. 🎮 Gamified Learning UI – Learn & Earn Farming Hub
-
-- Modules: `🌾 Crop Rotation`, `🐐 Livestock Care`, `💧 Irrigation Basics`  
-- Meme Badges: “SeedLord 🌱”, “EggMaster 🥚”, “NFTiller 🚜”  
-- Leaderboard + Progress bar  
-- GUI INU popups with funny reactions  
-
----
-
-## 🧪 Status
-
-- 🔧 MVP under construction  
-- 🖼️ UI/UX mockups in progress  
-- 📝 Educational content in Hausa being localized  
-- 🎁 Token reward system under review
-
----
-
-## 🗣️ Target Users
-
-- African rural farmers  
-- Livestock rearers & local vets  
-- NGOs focused on agri-health  
-- Web3 builders solving real-world needs
-
----
-
-## 💫 Vision
-
-To become the most engaging, culturally relevant, and useful blockchain tool for real-world African farmers and global food resilience.
-
----
+**GitHub:** [https://github.com/Binkado2014/Agrochain](https://github.com/Binkado2014/Agrochain)  
+**DoraHacks Submission:** Coming from Ideathon 2025  
+**Twitter:** [@Amg_k3Hub](https://twitter.com/Amg_k3Hub)
 
 ## 📬 Contact
 
-- 📧 amgk3hotline@gmail.com  
-- 🧑‍🌾 Twitter: [@Amg_k3Hub](https://x.com/Amg_k3Hub)  
-- 🌍 GitHub: [github.com/Binkado2014](https://github.com/Binkado2014)
+For team onboarding, partnerships, or discussion, please reach out on Twitter or via GitHub Issues.
 
 ---
 
-### 🌍 Agrochain – “Local Knowledge, Global Impact”
-> *“From Dutsin Safe to the Blockchain — we farm, we grow, we build!”*
+Built with 💚 for African farmers.
