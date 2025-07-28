@@ -34,7 +34,7 @@ Key progress:
   Twitter: [@Amg_k3Hub](https://twitter.com/Amg_k3Hub)  
 - **Nura Muhammad Hassan** – Community Outreach Lead  
 - **Muhammadu Ado Duwan** – Farmer Relations Coordinator
-- - JeffuMista – Frontend/Web3 Contributor
+- **JeffuMista – Frontend/Web3 Contributor
 
 > Note: The team is expanding. More technical contributors and advisors will be added as development progresses.
 
